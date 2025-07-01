@@ -1,14 +1,12 @@
 # Hi, I’m Tom! 👋
 
-**Compulsive Maker. Sustainability CTO. Dad. Feminist. Fan of kindness, the environment 🌎, and AI 🧠. Still learning.**
+**Compulsive Maker. Sustainability CTO. Swedish Dad. Humanist & Feminist. Fan of kindness, the environment 🌎, and AI 🧠. Still learning.**
 
-## I’m CTO at [The Climate Action Agency](https://github.com/Climate-Action-Agency)
+## I’m CTO at [Aimabel](https://github.com/aimabel-ai)
 
-https://github.com/Climate-Action-Agency | https://www.climateaction.agency
+https://github.com/aimabel-ai | https://aimabel.ai
 
-We’re building the AI-driven sustainability platform of the future (with Remix, Supabase, OpenAI):\
-👉 https://climate-action-agency.notion.site/Wanted-Sustainable-Fullstack-Developer-157955a809a580dfbd4acab4bae36f28
-
+We’re building the AI-driven sustainability platform of the future (with Remix, Supabase, OpenAI).
 ## More stuff
 
 Contact: [Tomorroworld](https://www.tomorroworld.com/) (my own company, now passive), [Linkd](https://linkd.fyi/@tomsoderlund "My recently published links"), [Threads](https://www.threads.net/@tomsoderlund), [Instagram](https://www.instagram.com/tomsoderlund/), [LinkedIn](https://www.linkedin.com/in/tomsoderlund/), [More...](https://www.tomsoderlund.com/links)
